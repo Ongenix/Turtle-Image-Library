@@ -12,9 +12,9 @@
 <h1 align="center" id="features">
   Features
 </h1>
-- Uses a premade turtle window (no need to initialize need instances)
-- Supports any size
-- Transparency support
+* Uses a premade turtle window (no need to initialize need instances)
+* Supports any size
+* Transparency support
 
 <h1 align="center" id="how-to-use">
   Tutorial
