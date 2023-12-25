@@ -20,6 +20,13 @@
   Tutorial
 </h1>
 ```
+import turtle
+from library import turtleImage # Remember to change the filename
+
+t = turtle.Turtle() # Initialize the turtle object
+
+draw = turtleImage(t) # Pass in the turtle object (or RawTurtle object)
+draw.draw_image('my_image.jpeg', 0, 0) # Draw the image
 ```
 
 <h1 align="center" id="download">
