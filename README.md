@@ -15,6 +15,7 @@
 • Uses a premade turtle window (no need to initialize new instances)<br>
 • Supports any size<br>
 • Transparency support<br>
+• Should support Turtle-PIL (https://github.com/jutge-org/pil-turtle)<br>
 
 <h1 align="center" id="how-to-use">
   Tutorial
