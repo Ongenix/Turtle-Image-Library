@@ -8,7 +8,7 @@
 </p>
 
 <br><br>
-<h2 style="background-color:red;">$${\color{red}PIL \space notes \space that \space it \space isn't \space recommended \space to \space loop<br> \space over \space every \space pixel, \space as \space the \space pixel \space list \space will \space become \space too \space large. \space This \space project \space doesn't \space store \space every \space pixel \space but \space instead \space instantly \space draws \space them.}$$</h2>
+<h2>$${\color{red}PIL \space notes \space that \space it \space isn't \space recommended \space to \space loop \space over \space every \space pixel, \space as \space the \space pixel \space list \space will \space become \space too \space large. \space This \space project \space doesn't \space store \space every \space pixel \space but \space instead \space instantly \space draws \space them.}$$</h2>
 <br><br>
 
 <h1 align="center" id="features">
