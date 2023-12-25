@@ -8,7 +8,7 @@
 </p>
 
 <br><br>
-<h2 style="background-color:red;">PIL notes that it isn't recommended to loop over every pixel, as the pixel list will become too large. This project doesn't store every pixel but instead instantly draws them.</h2>
+<h2 style="background-color:red;">$${\color{red}PIL notes that it isn't recommended to loop over every pixel, as the pixel list will become too large. This project doesn't store every pixel but instead instantly draws them.}</h2>
 <br><br>
 
 <h1 align="center" id="features">
